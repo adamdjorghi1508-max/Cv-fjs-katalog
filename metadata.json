@@ -1,0 +1,6 @@
+{
+  "name": "Katalog Besi dan Baja Konstruksi",
+  "description": "Katalog produk besi beton, CNP, WF, dan wiremesh untuk konstruksi berat dan bangunan dengan tanya stok langsung via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
